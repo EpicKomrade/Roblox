@@ -1,2 +1,3 @@
 # Roblox
-Just a test for ROBLOX
+NukeList contains a list of nuked websites.
+Whitelist contains a list of websites whitelisted as embedded videos.
